@@ -1,4 +1,4 @@
-# RecruiterFlow Bot — Backend Developer Assignment
+# RecruiterFlow Bot - Backend Developer Assignment
 
 A backend service that ingests fictional candidate profiles and job openings, then ranks the best matches for each using a transparent, rule-based scoring algorithm. Built as a take-home assignment for the RecruiterFlow Engineering Internship.
 
