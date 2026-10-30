@@ -1,0 +1,36 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# pytest cache
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment secrets
+.env
+.env.local
+
+# Generated database files
+data/*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution
+*.egg-info/
+dist/
+build/
+
+# Assignment PDF (not source code)
+*.pdf

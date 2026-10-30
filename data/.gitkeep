@@ -1,0 +1,2 @@
+# This directory stores the generated SQLite database file.
+# The .db file is excluded from version control via .gitignore.
