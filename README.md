@@ -22,7 +22,7 @@ A backend service that ingests fictional candidate profiles and job openings, th
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/GAGANA-KARTHIKEYAN/recruiterflow-backend
 cd recruiterflow-backend
 
 # Create and activate a virtual environment (recommended)
